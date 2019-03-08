@@ -2,11 +2,11 @@
 
 借助 Web 端学习优秀的 REPOSITORIES 项目，涉及语言: Java、python、Matlab、C#、HTML、CSS、JavaScript……
 
-### 原则
+## 原则
 
 以 GTD 为核心理念，一个项目一个项目地完成。主要体现在系统化，学习成果以文本的形式展示，做好记录。
 
-### REPOSITORIES
+## REPOSITORIES
 
 - [ ] python-->[chenguohui / AutomatePython](https://github.com/chenguohui/AutomatePython)  Python 编程快速上手——让繁琐工作自动化
 - [ ] python-->[apachecn / python_data_analysis_and_mining_action](https://github.com/apachecn/python_data_analysis_and_mining_action)  《python数据分析与挖掘实战》的代码笔记
