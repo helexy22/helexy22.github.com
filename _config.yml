@@ -12,7 +12,7 @@ header-img: img/post-bg-desk.jpg
 email: lijun8102@aliyun.com
 description: "LOVE PEOPLE.USE THINGS.The OPPOSITE NEVER WORKS"
 keyword: "Helexy22, Helexy22 Blog, 梓隽的博客, Jun Li, Minimalist, Program, Fitness"
-url: "https://helexy22.github.io/"          # your host, for absolute URL
+url: "https://helexy22.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "hhelexy22/helexy22.github.com.git" # you code repository
 
