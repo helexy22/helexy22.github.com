@@ -7,11 +7,11 @@ description: "LESS IS NOW."
 keyword: "Helexy22, Helexy22 Blog, 梓隽的博客, Jun Li, Program, Minimalist"
 url: "https://helexy22.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "helexy22.github.com.git" # you code repository
+github_repo: "https://github.com/helexy22/helexy22.github.com.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "LOVE PEOPEL,USE THINGS<THE OPPOSITE NEVER WOEKS!"
+sidebar-about-description: "LOVE PEOPEL,USE THINGS,THE OPPOSITE NEVER WOEKS!"
 sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
