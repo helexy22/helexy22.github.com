@@ -2,7 +2,7 @@
 title: Helexy22 Blog
 SEOTitle: 梓隽的博客 | Helexy22 Blog
 header-img: img/post-bg-desk.jpg
-email: lijun8102@aliyun.com
+email: lijun8102@gmail.com
 description: "LESS IS NOW."
 keyword: "Helexy22, Helexy22 Blog, 梓隽的博客, Jun Li, Program, Minimalist"
 url: "https://helexy22.github.io"          # your host, for absolute URL
@@ -24,7 +24,7 @@ github_username:    helexy22
 # facebook_username:  
 jianshu_username:   69c260905f92
 #twitter_username:   qiubaiying
-
+douban_username:    168344104
 
 
 
@@ -97,11 +97,12 @@ service-worker: true
 
 
 # Friends
-#friends: [
-   # {
-   #     title: "WY",
-   #     href: "http://zhengwuyang.com"
-   # },{
+friends: [
+   {
+        title: "吕立青",
+        href: "https://blog.jimmylv.info/"
+    }]
+    #,{
    #     title: "简书·BY",
    #     href: "http://www.jianshu.com/u/e71990ada2fd"
    # },{
