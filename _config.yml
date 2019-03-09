@@ -4,3 +4,30 @@ title: Helexy.com
 url: https://helexy22.github.io
 feed: /atom.xml
 author_info: <a href="https://helexy22.github.io">Helexy22</a>
+
+# Site settings
+title: Helexy22 Blog
+SEOTitle: 梓隽的博客 | Helexy22 Blog
+header-img: img/post-bg-desk.jpg
+email: lijun8102@aliyun.com
+description: "LOVE PEOPLE.USE THINGS.The OPPOSITE NEVER WORKS"
+keyword: "Helexy22, Helexy22 Blog, 梓隽的博客, Jun Li, Minimalist, Program, Fitness"
+url: "https://helexy22.github.io/"          # your host, for absolute URL
+baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
+github_repo: "hhelexy22/helexy22.github.com.git" # you code repository
+
+# Sidebar settings
+sidebar: true                           # whether or not using Sidebar.
+sidebar-about-description: "Less Is Now!"
+# sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+
+
+
+# SNS settings
+RSS: false
+weibo_username:     69c260905f92
+zhihu_username:     sir-72-50
+github_username:    Helexy22
+#facebook_username:  baiying.qiu.7
+jianshu_username:   /69c260905f92
+#twitter_username:   qiubaiying
