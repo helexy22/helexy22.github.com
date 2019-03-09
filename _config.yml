@@ -21,7 +21,7 @@ RSS: false
 weibo_username:     3313789635
 zhihu_username:     sir-72-50
 github_username:    helexy22
-# facebook_username:  
+facebook_username:  100010112196425
 jianshu_username:   69c260905f92
 #twitter_username:   qiubaiying
 #douban_username:    168344104
@@ -55,9 +55,9 @@ kramdown:
 
 
 
-# 评论系统
+# 评论系统 
 # Disqus（https://disqus.com/）
-# disqus_username: qiubaiying
+# disqus_username: heley22
 
 # Gitalk
 gitalk:
