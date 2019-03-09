@@ -1,7 +1,10 @@
 # helexy22.github.com
 Jun Lee'Blog
 
-[![](https://img.shields.io/github/issues/helexy22/helexy22.github.com.svg)](https://github.com/helexy22/helexy22.github.com/issues)  [![](https://img.shields.io/github/forks/helexy22/helexy22.github.com.svg)](https://github.com/helexy22/helexy22.github.com/network) [![](https://img.shields.io/github/stars/helexy22/helexy22.github.com.svg)](https://github.com/helexy22/helexy22.github.com/stargazers) [![](https://travis-ci.org/helexy22/helexy22.github.com.svg?branch=master)](https://travis-ci.org/justjavac/free-programming-books-zh_CN) [![](https://img.shields.io/github/release/helexy22/helexy22.github.com.svg)](https://github.com/helexy22/helexy22.github.com/releases)
+[![](https://img.shields.io/github/issues/helexy22/helexy22.github.com.svg)](https://github.com/helexy22/helexy22.github.com/issues) <a href="https://github.com/helexy22/helexy22.github.com/issues?q=is%3Aissue+is%3Aclosed" target="_blank" rel="external"><img src="https://img.shields.io/github/issues-closed-raw/helexy22/helexy22.github.com.svg?maxAge=2592000" alt=""></a>[![](https://img.shields.io/github/forks/helexy22/helexy22.github.com.svg)](https://github.com/helexy22/helexy22.github.com/network) [![](https://img.shields.io/github/stars/helexy22/helexy22.github.com.svg)](https://github.com/helexy22/helexy22.github.com/stargazers) 
+<img src="https://img.shields.io/badge/license-MIT-brightgreen.svg" />
+
+[![Throughput Graph](https://graphs.waffle.io/helexy22/helexy22.github.com/throughput.svg)](https://waffle.io/helexy22/helexy22.github.com/metrics/throughput)
 
 TODO：[ZenHub](https://app.zenhub.com/workspaces/helexy22githubcom-5bbe011226f2164f0af2aadb/boards)
 
