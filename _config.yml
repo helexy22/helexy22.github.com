@@ -101,11 +101,11 @@ friends: [
    {
         title: "吕立青",
         href: "https://blog.jimmylv.info/"
+    },{
+        title: "huxpro",
+        href: "http://huangxuan.me"
     }]
-    #,{
-   #     title: "简书·BY",
-   #     href: "http://www.jianshu.com/u/e71990ada2fd"
-   # },{
+   #,{
    #     title: "Apple",
    #     href: "https://apple.com"
    # },{
