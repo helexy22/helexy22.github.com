@@ -1,14 +1,14 @@
 {
-    "name": "by-blog",
-    "title": "BY Blog",
-    "author": "BY <qiubaiyingios@163.com>",
+    "name": "Helexy22-blog",
+    "title": "Helexy Blog",
+    "author": "Helexy <lijun8102@gmail.com>",
     "version": "1.7.0",
-    "homepage": "http://qiubaiying.github.io",
+    "homepage": "https://helexy22.github.io",
     "repository": {
         "type": "git",
-        "url": "https://github.com/qiubaiying/qiubaiying.github.io"
+        "url": "https://github.com/helexy22/helexy22.github.com"
     },
-    "bugs": "https://github.com/qiubaiying/qiubaiying.github.io/issues",
+    "bugs": "https://github.com/helexy22/helexy22.github.com/issues",
     "devDependencies": {
         "grunt": "~0.4.5",
         "grunt-contrib-less": "~0.11.4",
