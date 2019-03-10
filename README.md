@@ -11,8 +11,8 @@
 
 ---
 
-- ISSUES TODO：[ZenHub](https://app.zenhub.com/workspaces/helexy22githubcom-5bbe011226f2164f0af2aadb/boards)
-- MANAGE STARS:[Astral](https://app.astralapp.com/dashboard)  
+- **ISSUES TODO**:[ZenHub](https://app.zenhub.com/workspaces/helexy22githubcom-5bbe011226f2164f0af2aadb/boards)
+- **MANAGE STARS**:[Astral](https://app.astralapp.com/dashboard)  Organize Your GitHub Stars With Ease
 ## 致谢
 
 - 这个模板是从[qiubaiying](https://github.com/qiubaiying/qiubaiying.github.io) fork的,感谢作者
