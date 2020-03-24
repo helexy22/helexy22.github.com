@@ -55,7 +55,7 @@ kramdown:
 
 
 # 评论系统 
-Disqus（https://disqus.com/）
+# Disqus（https://disqus.com/）
 disqus_username: helexy22  # 经过测试之后，网络环境太差，选择放弃
 
 # Gitalk
