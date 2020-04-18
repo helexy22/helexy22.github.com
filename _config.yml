@@ -1,6 +1,6 @@
 # Site settings
 title: Helexy Blog
-SEOTitle: 梓隽的博客 | Helexy22 Blog
+SEOTitle: Helexy22 Homepage
 header-img: img/post-bg-desk.jpg
 email: lijun8102@gmail.com
 description: "LESS IS NOW."
@@ -51,7 +51,12 @@ markdown: kramdown
 highlighter: rouge
 kramdown:
   input: GFM                            # use Github Flavored Markdown !important
-
+  syntax_highlighter_opts:
+  span:
+    line_numbers: false
+  block:
+    line_numbers: true
+    start_line: 1
 
 
 # 评论系统 
