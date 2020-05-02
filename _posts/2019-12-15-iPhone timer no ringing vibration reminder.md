@@ -30,9 +30,9 @@ tags:								#标签
 具体步骤：
 
 1. 音频素材--->QQ音乐 App 搜索「静音」
-
 2. 将音频导入到铃声设置中-->库乐队
 
-<img src="iPhone 计时器无铃声震动提示.assets/image-20200502213029323.png" alt="操作过程图" style="zoom: 80%;" />
+<img src="2019-12-15-iPhone timer no ringing vibration reminder.assets/image-20200502213029323.png" style="zoom:80%;" />
 
 下一版文章关于如何联合 atimelogger 实现番茄钟模式
+
