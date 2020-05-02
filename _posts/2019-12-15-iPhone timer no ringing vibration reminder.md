@@ -32,7 +32,7 @@ tags:								#标签
 1. 音频素材--->QQ音乐 App 搜索「静音」
 2. 将音频导入到铃声设置中-->库乐队
 
-![操作过程图](2019-12-15-iPhone timer no ringing vibration reminder.assets/image-20200502213029323.png)
+![iPhone timer no ringing vibration reminder.png](2019-12-15-iPhone timer no ringing vibration reminder.assets/wSLQrxfOl2nbgo4.png)
 
 下一版文章关于如何联合 atimelogger 实现番茄钟模式
 
