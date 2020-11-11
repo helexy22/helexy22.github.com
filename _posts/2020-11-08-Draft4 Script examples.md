@@ -99,15 +99,15 @@ setText();
 - [[title]] : The first line of the draft only.
 - [[body]] : The remainder of the draft text after the first line is removed.
 - [[selection]] : If text was selected within the draft before selecting an action, this tag will return only that selected text. If no text was selected, it will return the full text of the draft.
-- [[line|n]] : The text of a specific line number in the draft, where “n” is the line number. i.e. [[line|1]], [[line|2]].
-- [[line|n..n]] : In addition to specific lines, the lines tag (above) can accept ranges of lines, such as “[[line|2..5]]” for lines 2 through 5. This initial or trailing number in the range can be omitted to indicate the beginning or end, i.e. [[line|2..]] is line 2 through the end of the draft, [[line|..4]] is the first for lines of the draft.
+- [[line/n]] : The text of a specific line number in the draft, where “n” is the line number. i.e. [[line|1]], [[line|2]].
+- [[line/n..n]] : In addition to specific lines, the lines tag (above) can accept ranges of lines, such as “[[line|2..5]]” for lines 2 through 5. This initial or trailing number in the range can be omitted to indicate the beginning or end, i.e. [[line/2..]] is line 2 through the end of the draft, [[line|..4]] is the first for lines of the draft.
 - [[uuid]] : A unique identifier for the current draft.
 - [[draft_open_url]] : A URL which can be used as a bookmark to open Drafts and select the current draft.
 - [[clipboard]] : The current contents of the iOS clipboard.
 - [[date]] : Timestamp in the format YYYY-MM-DD.
-- [[date|format]] : Timestamp, formatted based on a custom strfime format string. For example [[date|%m-%d-%Y]] becomes “01–02–2013”. Read Dr. Drang’s great post on Drafts’ format strings for more ideas.
-- [[created|format]] : Same as “date”, but returns the timestamp for the creation of the draft, rather than the current time.
-- [[modified|format]] : Same as “date”, but returns the timestamp for the last modification date of the draft content, rather than the current time.
+- [[date/format]] : Timestamp, formatted based on a custom strfime format string. For example [[date|%m-%d-%Y]] becomes “01–02–2013”. Read Dr. Drang’s great post on Drafts’ format strings for more ideas.
+- [[created/format]] : Same as “date”, but returns the timestamp for the creation of the draft, rather than the current time.
+- [[modified/format]] : Same as “date”, but returns the timestamp for the last modification date of the draft content, rather than the current time.
 - [[longitude]] : The current device location longitude. **
 - [[latitude]] : The current device location latitude. **
 - [[created_longitude]] : The location longitude where the draft was created. **
@@ -126,5 +126,5 @@ setText();
 - [New flexible timestamps in Drafts - All this](http://www.leancrew.com/all-this/2013/02/new-flexible-timestamps-in-drafts/)
 - [Script Keys – Agile Tortoise](https://agiletortoise.zendesk.com/hc/en-us/articles/202465564-Script-Keys)
 - [Drafts Script Reference](https://scripting.getdrafts.com/)
-- ⭐[Drafts Directory | Drafts Action Directory](https://actions.getdrafts.com/)
+- ⭐[Drafts Directory / Drafts Action Directory](https://actions.getdrafts.com/)
 
