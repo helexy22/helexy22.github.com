@@ -21,19 +21,19 @@ I exclusively use [Lenovo V2000 Laptop](https://www.amazon.cn/%E8%81%94%E6%83%B3
 
 ### And What software?
 
-For professional software, use [ENVI/IDL](http://www.enviidl.com/),[PCI Geomatics](https://www.pcigeomatics.com/),[Google Earth Engine](https://earthengine.google.com/) to process remote sensing images,sometimes use [Matlab](https://www.mathworks.com/products/matlab.html) to process images.
+
 
 [ArcGIS](https://desktop.arcgis.com/) for spatial analysis. It is essential for data analysis with  [Excel](https://office.live.com/start/excel.aspx) and [SPSS](https://www.ibm.com/analytics/spss-statistics-software). It has become very common for advanced learning to use scripting languages such as [R](https://www.r-project.org/) and [Python](https://www.python.org/) to handle spatial analysis.
 
 As long as I can use the web, I generally don’t need an App. Under the conditions of a better user experience.
 
-I use the [Notion](https://www.notion.so/) and [Wiznote](https://www.wiz.cn/) to organize memos and project management in life and work. [Drafts](https://getdrafts.com/) as my text stars  on my phone.When I switched to Android, I used [Pure Writer](https://play.google.com/store/apps/details?id=com.drakeet.purewriter&hl=zh) instead of Drafts.
+I use the [Notion](https://www.notion.so/) and [Feishu](https://www.feishu.cn/ to organize memos and project management in life and work. [Drafts](https://getdrafts.com/) as my text stars  on my phone.When I switched to Android, I used [Pure Writer](https://play.google.com/store/apps/details?id=com.drakeet.purewriter&hl=zh) instead of Drafts.
 
 I use the [Apple music](https://music.apple.com/) as ambient sound. It has no additional social burdens and robotic comments in mainland China. And it works well with [Shazam](https://www.shazam.com/), in iOS 14.2.
 
 I am a [Microsoft PowerPoint](https://office.live.com/start/powerpoint.aspx)（Abbreviated as PPT ）fan，use PPT to do simple graphic design and make resume.
 
-I use [Microsoft To Do](https://to-do.office.com/), and [Mak](https://github.com/inns/mak)  as GTD tools，one is cross-platform, and the other is web-only. Mak is a universal notepad (WIP),with minimal typography and gist synchronization.When I in office, I only use [Todoist](https://todoist.com/) on the office computer,which installed monitoring software. 
+I use [Todoist](https://todoist.com/), and [Dida365](https://dida365.com/)  as GTD tools，one is cross-platform, and the other is web-only. I only use Dida365 on the office computer,which installed monitoring software. 
 
 Any and all programming I do is extremely amateur hour and usually in [Sublime Text](https://www.sublimetext.com/) , [Notepad++](https://notepad-plus-plus.org/) or [Visual Studio Code](https://code.visualstudio.com/),I also use IDE environment  like [PyCharm](https://www.jetbrains.com/pycharm/) and  [Android Studio](https://developer.android.com/studio?hl=es).Although I am an amateur, I am used to writing Markdown documents and browsing Github open source projects.
 
