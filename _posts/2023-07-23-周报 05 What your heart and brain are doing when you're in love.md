@@ -60,7 +60,7 @@ there are three brain systems involved in romantic love: sex drive, love and att
   - 上海将暂停受理网络预约出租汽车运输证相关业务。此前，三亚、长沙等地也相继暂停受理网约车运输证新增业务，东莞、深圳、温州、济南等地发布网约车市场饱和预警。
   - [What your heart and brain are doing when you're in love - CNN.com](http://edition.cnn.com/2010/HEALTH/02/12/love.heart.brain/index.html)
   - [The 5 Stages of Love: How to Level Up Your Relationship - Relish --- 爱的5个阶段：如何升级你的关系](https://hellorelish.com/articles/5-stages-of-love.html)
-  - [The Conquest of Happiness and Why It Matters Today | Daily Philosophy --- =幸福之路及其重要性 ](https://daily-philosophy.com/the-conquest-of-happiness/)
+  - [The Conquest of Happiness and Why It Matters Today ](https://daily-philosophy.com/the-conquest-of-happiness/)
   - [当初选择研发“莉景天气”的初心和契机是什么？](https://zhuanlan.zhihu.com/p/371049515) 蚂蚁风云的另外一款产品气象卫士也已与煤矿、服装产业融合，为其解决因天气造成的施工困难与产品滞剩问题，逐步迈向国际化。
   - [番禺区星河湾小区调整产权车位的租赁管理方案。业主、物业间爆发争议。](https://mp.weixin.qq.com/s/Fj2qW23gz1fOYxr7fgenYw) 车位的产权在开发商手上，开发商有权处置。
   - [古相思曲 （豆瓣）](https://movie.douban.com/subject/36155049/)，陆鸢和沈不言的故事。花了 4 天时间，看了 14*30min 的剧。
@@ -68,6 +68,6 @@ there are three brain systems involved in romantic love: sex drive, love and att
   - [Global Population Explorer](https://google.earthengine.app/view/population-explorer)，Earth Engine Apps，(thousands of people per square kilometer)，Source: Global Human Settlement Layer。
   - [finds Sentinel-2 images that are cloud-free in a particular area of interest.](https://github.com/bellingcat/cloud-free-subregion)
     - ![ex.jpg (2000×1330)](https://raw.githubusercontent.com/bellingcat/cloud-free-subregion/master/docs/ex.jpg)
-  - [這些經典照片全都出自他手！劇照師劉振祥：劇照的目的，是傳遞電影的精神和感動 | 遠見雜誌](https://www.gvm.com.tw/article/103446)
+  - [這些經典照片全都出自他手！劇照師劉振祥：劇照的目的，是傳遞電影的精神和感動](https://www.gvm.com.tw/article/103446)
     - ![142643.jpg (792×555)](https://imgs.gvm.com.tw/upload/gallery/20230609/142643.jpg)
 
